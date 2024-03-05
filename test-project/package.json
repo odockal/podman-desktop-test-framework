@@ -1,0 +1,11 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Testing Project For Podman Desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "test:e2e"
+  },
+  "author": "odockal@redhat.com",
+  "license": "Apache-2.0"
+}
